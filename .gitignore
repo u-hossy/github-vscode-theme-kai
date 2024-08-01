@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-/themes/
+# /themes/
 package-lock.json
 build
 *.vsix
